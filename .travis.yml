@@ -1,2 +1,8 @@
 language: csharp
 solution: WebApplicationCI.sln
+install:
+  - nuget restore solution-name.sln
+  - nuget install NUnit.Runners -Version 2.6.4 -OutputDirectory testrunner
+script:
+  - xbuild /p:Configuration=Release WebApplicationCI.sln
+  - mono ./testrunner/NUnit.Runners.2.6.4/tools/nunit-console.exe ./UnitTestProjectCI/bin/Release/UnitTestProjectCI.dll

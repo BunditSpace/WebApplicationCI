@@ -28,6 +28,5 @@ D:\testproject\WebApplicationCI\WebApplicationCI\bin\DotNetOpenAuth.OpenId.Relyi
 D:\testproject\WebApplicationCI\WebApplicationCI\bin\DotNetOpenAuth.AspNet.xml
 D:\testproject\WebApplicationCI\WebApplicationCI\bin\Microsoft.AspNet.Membership.OpenAuth.xml
 D:\testproject\WebApplicationCI\WebApplicationCI\bin\Microsoft.AspNet.FriendlyUrls.xml
-D:\testproject\WebApplicationCI\WebApplicationCI\obj\Debug\WebApplicationCI.csprojResolveAssemblyReference.cache
 D:\testproject\WebApplicationCI\WebApplicationCI\obj\Debug\WebApplicationCI.dll
 D:\testproject\WebApplicationCI\WebApplicationCI\obj\Debug\WebApplicationCI.pdb

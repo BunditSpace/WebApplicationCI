@@ -1,0 +1,7 @@
+D:\testproject\WebApplicationCI\UnitTestProjectCI\bin\Debug\UnitTestProjectCI.dll
+D:\testproject\WebApplicationCI\UnitTestProjectCI\bin\Debug\UnitTestProjectCI.pdb
+D:\testproject\WebApplicationCI\UnitTestProjectCI\bin\Debug\nunit.framework.dll
+D:\testproject\WebApplicationCI\UnitTestProjectCI\bin\Debug\nunit.framework.xml
+D:\testproject\WebApplicationCI\UnitTestProjectCI\obj\Debug\UnitTestProjectCI.csprojResolveAssemblyReference.cache
+D:\testproject\WebApplicationCI\UnitTestProjectCI\obj\Debug\UnitTestProjectCI.dll
+D:\testproject\WebApplicationCI\UnitTestProjectCI\obj\Debug\UnitTestProjectCI.pdb
